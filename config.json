@@ -9,9 +9,9 @@
         },
         "cs": {
           "AC-Environment-Id": "P9eYXjoVrSh8u3qmT8jxzS",
-          "AC-View-ID": "125d00f4-982c-4e19-9a12-910e8fd1f724",
-          "AC-Price-Book-ID": "east_coast_inc",
-          "AC-Source-Locale": "en-US"
+          "AC-View-ID": "1f0e04d0-e40c-4a7e-b61f-34a650cc72b5",
+          "AC-Price-Book-ID": "us",
+          "AC-Source-Locale": "en"
         }
       },
       "commerce-assets-enabled": false,
